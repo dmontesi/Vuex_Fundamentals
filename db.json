@@ -59,6 +59,16 @@
       "date": "2.23.21",
       "time": "3pm",
       "organizer": "Dan M"
+    },
+    {
+      "id": "20b5dd5f-4b4c-4f0d-9d1e-82a5e3cd25d1",
+      "category": "animal welfare",
+      "title": "Save The Bees",
+      "description": "Come save the bees",
+      "location": "The Park",
+      "date": "02.15.22",
+      "time": "9am",
+      "organizer": "Dan M"
     }
   ]
 }
