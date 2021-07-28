@@ -39,6 +39,26 @@
       "date": "September 15, 2024",
       "time": "12:00",
       "organizer": "Adam Jahr"
+    },
+    {
+      "id": "c9718ff5-9b90-4514-915e-34df86782ad9",
+      "category": "community",
+      "title": "Community (TV Show Casting)",
+      "description": "Come be a part of the remake",
+      "location": "The Park",
+      "date": "2.22.22",
+      "time": "4pm",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "1b508d20-6a82-4a8c-91b7-8fc5219c5e6f",
+      "category": "nature",
+      "title": "Bird Watching",
+      "description": "Come watch birds with us!",
+      "location": "The Park",
+      "date": "2.23.21",
+      "time": "3pm",
+      "organizer": "Dan M"
     }
   ]
 }
