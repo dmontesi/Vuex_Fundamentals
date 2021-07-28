@@ -69,6 +69,26 @@
       "date": "02.15.22",
       "time": "9am",
       "organizer": "Dan M"
+    },
+    {
+      "id": "93f0ee39-6678-4910-aedd-f7274a9eea97",
+      "category": "education",
+      "title": "Learn to program",
+      "description": "Come Learn Web Development",
+      "location": "The Library",
+      "date": "3.23.22",
+      "time": "10am",
+      "organizer": "Dan M"
+    },
+    {
+      "id": "7091f2c1-e118-4225-80d1-9845249d90a0",
+      "category": "nature",
+      "title": "Nature Photography",
+      "description": "Come learn photography with us",
+      "location": "The Park",
+      "date": "4.12.22",
+      "time": "7am",
+      "organizer": "Dan M"
     }
   ]
 }

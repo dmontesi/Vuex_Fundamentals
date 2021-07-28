@@ -72,7 +72,7 @@ export default {
       const event = {
         ...this.event,
         id: uuidv4(),
-        organizer: this.user
+        organizer: this.user.userInfo.name
       }
       // this.$store.dispatch('createEvent', event)
       this.createEvent(event)
@@ -92,7 +92,6 @@ export default {
   },
   computed: {
     ...mapState(['user']),
-    
   }
 }
 </script>
