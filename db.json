@@ -89,6 +89,16 @@
       "date": "4.12.22",
       "time": "7am",
       "organizer": "Dan M"
+    },
+    {
+      "id": "11765300-53a2-44e4-adec-7de8f262b223",
+      "category": "education",
+      "title": "Learn Piano for Toddlers",
+      "description": "Maybe it's time your toddler learns to play piano?",
+      "location": "The Library",
+      "date": "3.4.22",
+      "time": "4pm",
+      "organizer": "Dan M"
     }
   ]
 }
